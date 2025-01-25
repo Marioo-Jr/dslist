@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-DSList é um sistema de gerenciamento de catalogos de jogos desenvolvido em Java e Spring Boot o projeto ultiliza uma arquitetura REST, o projeto foi feito em um bootcamp.
+DSList é um sistema de gerenciamento de catalogos de jogos desenvolvido em Java e Spring Boot, O projeto ultiliza uma arquitetura REST e  foi feito em um bootcamp.
 
 
 O sistema permite um gerenciamento de informações sobre os jogos incluindo titulos, descrições, plataforma entre outros.
