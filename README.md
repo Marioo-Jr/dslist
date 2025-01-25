@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 
-DSList é um sistema de gerenciamento de catalogos de jogos desenvolvido em Java e Spring Boot o projeto ultiliza uma arquitetura REST, o projeto foi feito em um bootcamp organizado pela 
+DSList é um sistema de gerenciamento de catalogos de jogos desenvolvido em Java e Spring Boot o projeto ultiliza uma arquitetura REST, o projeto foi feito em um bootcamp.
+
 
 O sistema permite um gerenciamento de informações sobre os jogos incluindo titulos, descrições, plataforma entre outros.
 
@@ -47,20 +48,20 @@ O DSList utiliza o banco de dados H2 para operações de teste e desenvolvimento
 
 # Tecnologias ultilizas
 
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Banco de dados H2
-- Maven
+- Java: Linguagem de programação.
+- Spring Boot: Framework para desenvolvimento de aplicações Spring.
+- JPA / Hibernate: Framework ORM para mapeamento objeto-relacional.
+- Banco de dados H2: Banco de daos para desenvolvimento e testes.
+- Maven: Ferramenta de automação de build e gerenciamento de dependências.
 
-# Métodos ultilizados
+# Métodos ultilizados 
 
-- Padrão DTO 
-- Estrutura de projeto Spring Rest 
-- Entidades e ORM
-- Database seeding
-- Padrão camadas 
-- Controller, service, repository
+- Padrão DTO:  Utilizado para transferência de dados entre diferentes camadas da aplicação.
+ 
+- Entidades e ORM: Mapeamento das classes da aplicação para tabelas no banco de dados.
+- Database seeding: Técnicas para população inicial do banco de dados com dados de teste.
+- Padrão camadas:  Controller, Service, Repository.
+- Estrutura de projeto Spring Rest. 
 
  
 
