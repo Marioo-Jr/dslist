@@ -32,7 +32,6 @@ O DSList utiliza o banco de dados H2 para operações de teste e desenvolvimento
 
 # Requisiçao da API
 
-![postman](https://github.com/user-attachments/assets/07e05ec9-b967-4a95-b947-1827348db0d5)
 
 ![postman2](https://github.com/user-attachments/assets/84a9d056-a609-4d47-bba9-6ff98c97752b)
 
@@ -40,7 +39,8 @@ O DSList utiliza o banco de dados H2 para operações de teste e desenvolvimento
 # banco de dados H2
 
 
-![H2](https://github.com/user-attachments/assets/fc3881f1-a094-4400-8eb6-5b20c572fb61)
+![h2](https://github.com/user-attachments/assets/cb16f6a9-4482-4704-8be8-fd6af786fd86)
+
 
 
 
